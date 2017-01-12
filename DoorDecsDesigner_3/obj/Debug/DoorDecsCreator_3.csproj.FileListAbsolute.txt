@@ -1,0 +1,3 @@
+C:\Users\Mete\Desktop\Resident Advisor\DoorDecsCreator_3\DoorDecsDesigner_3\bin\Debug\DoorDecsDesigner_3.exe.config
+C:\Users\Mete\Desktop\Resident Advisor\DoorDecsCreator_3\DoorDecsDesigner_3\obj\Debug\DoorDecsDesigner_3.exe
+C:\Users\Mete\Desktop\Resident Advisor\DoorDecsCreator_3\DoorDecsDesigner_3\obj\Debug\DoorDecsDesigner_3.pdb
